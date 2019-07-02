@@ -1,0 +1,18 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+
+h1 {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.main-title {
+  background-color: black;
+  width: 150px;
+}
+
+img {
+  height: 10px;
+}
+
